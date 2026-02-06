@@ -1,4 +1,5 @@
 names = ['isaac','chimfwembe','ken']
-print(names)
+for name in names:
+  print(f"{name}.title()})
 
 
