@@ -1,2 +1,4 @@
-print(”Hello , Secure World!”)
+names = ['isaac','chimfwembe','ken']
+print(names)
+
 
